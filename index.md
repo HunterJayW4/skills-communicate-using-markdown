@@ -8,3 +8,7 @@ Public static void main(String[] args) {
   System.out.println("Hello World!");
 }
 ```
+
+- [ ] Test Github list
+- [ ] Complete Assignment
+- [ ] Get good grades
